@@ -12,7 +12,9 @@ ollama serve
 
 and to run the openrouter based project 
 $env:OPENROUTER_API_KEY="add in this only "  and dont give " " around that  in terminal or we can give in .env file which is better option.
-
+use command 
+python app.py
 
 outputs :
 are there in op folder 
+
